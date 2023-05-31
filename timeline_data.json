@@ -2,6 +2,22 @@
   "items": [
     {
       "classes": ["event-large", "tag-staff", "tag-resignation"],
+      "slug": "teresa-dietrich-resigns",
+      "type": "staff resignation",
+      "date_str": "2023-04-21",
+      "title": "Teresa Dietrich resigns",
+      "summary": "Chief Product Officer",
+      "body": "<blockquote>In the 3+ years that she was here, Teresa had a huge impact on the company and the website. In addition to the Product team, Teresa had the Community team under her purview, and for more than half of her tenure she also acted as Chief Technology Officer.</blockquote>",
+      "links": [
+          {
+          "text": "farewell post",
+          "url": "https://meta.stackexchange.com/questions/388800/announcement-teresa-dietrich-leaves-stack"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "classes": ["event-large", "tag-staff", "tag-resignation"],
       "slug": "nick-craver-resigns",
       "type": "staff resignation",
       "date_str": "2021-08-16",
